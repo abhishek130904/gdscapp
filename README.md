@@ -4,9 +4,12 @@ This app is made on Android Studio, using jetpack compose framework, named "Calc
 
 ## 2. Features
 Basic Arithmetic: Addition, subtraction, multiplication, and division.
+
 BODMAS Rule Implementation: Ensures correct order of operations.
+
 Advanced Functions: Trigonometric, logarithmic, and other scientific calculations under the "More" section.
 But! I think there is some error in the code, however I have added the logic for the Advanced functions but they are not working well on the app, really apologize for that.  
+
 User-Friendly Interface: A well-designed UI for smooth interaction.
 ## 3. Technologies Used
 Programming Language: Kotlin
@@ -25,3 +28,8 @@ Adding a history feature to track past calculations.
 Maybe remove the Rhino Mozilla for evaluation and use mXparser or Exp4j for this. 
 ## 6. Conclusion
 This scientific calculator app provides a solid foundation for performing both basic and advanced calculations. With debugging and feature enhancements, it can become a fully functional and reliable tool for mathematical operations.
+### Here are some user interface
+![Screenshot 2025-02-19 020422](https://github.com/user-attachments/assets/79386ffc-609e-48cd-a95f-fafb5013f86d)
+
+![image](https://github.com/user-attachments/assets/147576f1-da9d-4b89-92e5-76d13c9a3f6e)
+
